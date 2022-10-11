@@ -31,3 +31,4 @@ t2 = "car"
 output2 = Solution().isAnagram(s2, t2)
 print(output1)
 print(output2)
+# Since the string is only examined once, the time complexity is O(n).
